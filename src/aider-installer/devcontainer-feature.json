@@ -1,0 +1,11 @@
+{
+    "id": "aider-installer",
+    "version": "1.0.0",
+    "name": "Aider Installer",
+    "description": "Installs aider-chat, the AI pair programmer. Requires Python to be installed.",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/python"
+    ]
+}
